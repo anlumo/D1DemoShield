@@ -1,0 +1,6 @@
+[submodule "WS2812B.pretty"]
+	path = WS2812B.pretty
+	url = https://github.com/madworm/WS2812B.pretty.git
+[submodule "iheart-kicad-lib"]
+	path = iheart-kicad-lib
+	url = https://github.com/LucidOne/iheart-kicad-lib.git

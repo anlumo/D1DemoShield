@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name IHE)(type Legacy)(uri "$(KIPRJMOD)/iheart-kicad-lib/IHE.mod")(options "")(descr ""))
+  (lib (name WS2812B)(type KiCad)(uri "$(KIPRJMOD)/WS2812B.pretty")(options "")(descr ""))
+)
